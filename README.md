@@ -11,7 +11,7 @@ Project Obejectives:
 
 • Pollutant Level by State,
 
-• Pollution by Type (Pollutant ID), and
+• Pollution by Type (Pollutant ID) ,   and
 
 • Trend of Pollution Over Time.
 
