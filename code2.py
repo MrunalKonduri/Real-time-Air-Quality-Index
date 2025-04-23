@@ -8,7 +8,7 @@ file_path = 'D:/INT375 Project/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69 (1) (1).csv'
 df = pd.read_csv(file_path)
 
 # Clean column names
-df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_')
+df.columns = df.columns.str.strip().str.lower().str.replace(' ', '_') 
 
 # Parse datetime column
 df.columns = df.columns.str.strip().str.lower().str.replace(" ", "_")
