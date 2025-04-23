@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import seaborn as sns
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt  
 
 # Load CSV file
 file_path = 'D:/INT375 Project/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69 (1) (1).csv'
